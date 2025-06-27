@@ -1,0 +1,6 @@
+[build]
+  publish = "."  # Use current directory for static files
+
+[dev]
+  publish = "."  # Same for local dev server
+  port = 8888    # (Optional) Change if you want a different port
